@@ -12,7 +12,7 @@ public class Main {
 		 GameDummy p1 = new GameDummy(); // ---> 임시 테스트용도!
 		//PlusGame p1 = new PlusGame();
 
-		int count = 0; // 정답의 개수를 체크하는 역할!
+		int count = 0; 
 
 		// 1. 총 5문제를 제시
 		for (int i = 0; i < 5; i++) {
